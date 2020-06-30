@@ -11,4 +11,4 @@ Die 17-jährige Luna – smart, selbstbewusst und unbeschwert – verbringt das 
 > Das ist ein Zitat ...
 
 
-![Image Luna](https://bilder.fernsehserien.de/epg/4942/sf2_200402_2320_e42235be_luna_b-w-792.jpg.webp)
+<img srx="https://bilder.fernsehserien.de/epg/4942/sf2_200402_2320_e42235be_luna_b-w-792.jpg.webp"/>
