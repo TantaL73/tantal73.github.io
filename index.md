@@ -1,1 +1,1 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Luna -- smart, selbstbewusst und unbeschwert
